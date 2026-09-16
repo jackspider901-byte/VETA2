@@ -1,0 +1,319 @@
+{
+  "environment": "Headless Chromium; standalone HTML injected locally without navigation. No external network. localStorage sanitisation fixtures are mocked; cross-session browser persistence not certified.",
+  "checks": 61,
+  "passed": 61,
+  "results": [
+    {
+      "check": "Homepage renders",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Homepage loads every image",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Homepage no horizontal overflow at 1440px",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Homepage no horizontal overflow at 1100px",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Homepage no horizontal overflow at 768px",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Homepage no horizontal overflow at 760px",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Homepage no horizontal overflow at 390px",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Homepage no horizontal overflow at 360px",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Homepage no horizontal overflow at 320px",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Catalogue has eight sample products",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Price sorting",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Category filter",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Availability respects selected size",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Empty search state",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Empty-state recovery",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Search suggestions",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Escape closes modal",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Focus restored after modal close",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Missing size blocked",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Unavailable size disabled",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Colour selector updates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Size unit conversion",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Product gallery selection",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Add-to-bag loading state",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Bag drawer confirmation",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Bag quantity updates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Full bag total updates",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Checkout validation",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Delivery cost updates total",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Review retains contact details",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Declined payment recovery",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Decline retains basket",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Confirmation reached",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Receipt total consistent",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "No real-payment claim",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Bag cleared after demo order",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Unavailable product state",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Availability request success",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Newsletter invalid state",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Newsletter demo success",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mobile navigation",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mobile navigation route",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mobile layout /shop",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mobile layout /product/foundation-hoodie",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mobile layout /bag",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mobile layout /checkout",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mobile layout /about",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mobile layout /lookbook",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mobile layout /guide",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mobile layout /design-system",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mobile layout /support/privacy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mobile layout /missing",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Mobile purchase bar",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Dialog keyboard containment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Reduced motion styling",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "No JavaScript runtime errors",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "No external network requests",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Basket fixture validation 1",
+      "passed": true,
+      "detail": "(0)"
+    },
+    {
+      "check": "Basket fixture validation 2",
+      "passed": true,
+      "detail": "(0)"
+    },
+    {
+      "check": "Basket fixture validation 3",
+      "passed": true,
+      "detail": "(7)"
+    },
+    {
+      "check": "Basket fixture validation 4",
+      "passed": true,
+      "detail": "(0)"
+    }
+  ],
+  "not_tested": [
+    "Safari, Firefox and actual mobile hardware",
+    "Screen-reader testing or formal accessibility conformance",
+    "Live payment, inventory or fulfilment integrations",
+    "Production image quality or product-data accuracy",
+    "User research or customer usability validation"
+  ]
+}

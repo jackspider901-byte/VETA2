@@ -1,0 +1,314 @@
+[
+  {
+    "file": "01-home-desktop",
+    "title": "Homepage",
+    "mode": "desktop",
+    "width": 1440,
+    "height": 3198,
+    "svg": true
+  },
+  {
+    "file": "02-collection-desktop",
+    "title": "Collection",
+    "mode": "desktop",
+    "width": 1440,
+    "height": 2046,
+    "svg": true
+  },
+  {
+    "file": "03-product-desktop",
+    "title": "Product / size selected",
+    "mode": "desktop",
+    "width": 1440,
+    "height": 2333,
+    "svg": true
+  },
+  {
+    "file": "18-size-guide-desktop",
+    "title": "Size guide",
+    "mode": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "svg": false
+  },
+  {
+    "file": "04-empty-bag-desktop",
+    "title": "Empty bag",
+    "mode": "desktop",
+    "width": 1440,
+    "height": 1183,
+    "svg": false
+  },
+  {
+    "file": "05-bag-desktop",
+    "title": "Shopping bag",
+    "mode": "desktop",
+    "width": 1440,
+    "height": 1335,
+    "svg": true
+  },
+  {
+    "file": "19-bag-drawer-desktop",
+    "title": "Shopping bag drawer",
+    "mode": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "svg": false
+  },
+  {
+    "file": "06-checkout-details-desktop",
+    "title": "Checkout / details",
+    "mode": "desktop",
+    "width": 1440,
+    "height": 1262,
+    "svg": true
+  },
+  {
+    "file": "07-checkout-delivery-desktop",
+    "title": "Checkout / delivery",
+    "mode": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "svg": true
+  },
+  {
+    "file": "08-checkout-payment-desktop",
+    "title": "Checkout / payment review",
+    "mode": "desktop",
+    "width": 1440,
+    "height": 1113,
+    "svg": true
+  },
+  {
+    "file": "09-checkout-declined-desktop",
+    "title": "Payment / declined state",
+    "mode": "desktop",
+    "width": 1440,
+    "height": 1197,
+    "svg": false
+  },
+  {
+    "file": "10-confirmation-desktop",
+    "title": "Demo confirmation",
+    "mode": "desktop",
+    "width": 1440,
+    "height": 1242,
+    "svg": true
+  },
+  {
+    "file": "11-about-desktop",
+    "title": "Brand story",
+    "mode": "desktop",
+    "width": 1440,
+    "height": 1879,
+    "svg": true
+  },
+  {
+    "file": "12-lookbook-desktop",
+    "title": "Editorial lookbook",
+    "mode": "desktop",
+    "width": 1440,
+    "height": 1723,
+    "svg": true
+  },
+  {
+    "file": "13-design-system-desktop",
+    "title": "Design system",
+    "mode": "desktop",
+    "width": 1440,
+    "height": 3373,
+    "svg": true
+  },
+  {
+    "file": "14-empty-results-desktop",
+    "title": "No search results",
+    "mode": "desktop",
+    "width": 1440,
+    "height": 1529,
+    "svg": false
+  },
+  {
+    "file": "15-unavailable-desktop",
+    "title": "Unavailable product",
+    "mode": "desktop",
+    "width": 1440,
+    "height": 2392,
+    "svg": false
+  },
+  {
+    "file": "16-search-desktop",
+    "title": "Search suggestions",
+    "mode": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "svg": false
+  },
+  {
+    "file": "17-filters-desktop",
+    "title": "Filter drawer",
+    "mode": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "svg": false
+  },
+  {
+    "file": "01-home-mobile",
+    "title": "Homepage",
+    "mode": "mobile",
+    "width": 390,
+    "height": 3502,
+    "svg": true
+  },
+  {
+    "file": "02-collection-mobile",
+    "title": "Collection",
+    "mode": "mobile",
+    "width": 390,
+    "height": 2665,
+    "svg": true
+  },
+  {
+    "file": "03-product-mobile",
+    "title": "Product / size selected",
+    "mode": "mobile",
+    "width": 390,
+    "height": 3283,
+    "svg": true
+  },
+  {
+    "file": "18-size-guide-mobile",
+    "title": "Size guide",
+    "mode": "mobile",
+    "width": 390,
+    "height": 844,
+    "svg": false
+  },
+  {
+    "file": "04-empty-bag-mobile",
+    "title": "Empty bag",
+    "mode": "mobile",
+    "width": 390,
+    "height": 1487,
+    "svg": false
+  },
+  {
+    "file": "05-bag-mobile",
+    "title": "Shopping bag",
+    "mode": "mobile",
+    "width": 390,
+    "height": 2033,
+    "svg": true
+  },
+  {
+    "file": "19-bag-drawer-mobile",
+    "title": "Shopping bag drawer",
+    "mode": "mobile",
+    "width": 390,
+    "height": 844,
+    "svg": false
+  },
+  {
+    "file": "06-checkout-details-mobile",
+    "title": "Checkout / details",
+    "mode": "mobile",
+    "width": 390,
+    "height": 1715,
+    "svg": true
+  },
+  {
+    "file": "07-checkout-delivery-mobile",
+    "title": "Checkout / delivery",
+    "mode": "mobile",
+    "width": 390,
+    "height": 1447,
+    "svg": true
+  },
+  {
+    "file": "08-checkout-payment-mobile",
+    "title": "Checkout / payment review",
+    "mode": "mobile",
+    "width": 390,
+    "height": 1585,
+    "svg": true
+  },
+  {
+    "file": "09-checkout-declined-mobile",
+    "title": "Payment / declined state",
+    "mode": "mobile",
+    "width": 390,
+    "height": 1687,
+    "svg": false
+  },
+  {
+    "file": "10-confirmation-mobile",
+    "title": "Demo confirmation",
+    "mode": "mobile",
+    "width": 390,
+    "height": 1231,
+    "svg": true
+  },
+  {
+    "file": "11-about-mobile",
+    "title": "Brand story",
+    "mode": "mobile",
+    "width": 390,
+    "height": 2302,
+    "svg": true
+  },
+  {
+    "file": "12-lookbook-mobile",
+    "title": "Editorial lookbook",
+    "mode": "mobile",
+    "width": 390,
+    "height": 2215,
+    "svg": true
+  },
+  {
+    "file": "13-design-system-mobile",
+    "title": "Design system",
+    "mode": "mobile",
+    "width": 390,
+    "height": 5679,
+    "svg": true
+  },
+  {
+    "file": "14-empty-results-mobile",
+    "title": "No search results",
+    "mode": "mobile",
+    "width": 390,
+    "height": 1717,
+    "svg": false
+  },
+  {
+    "file": "15-unavailable-mobile",
+    "title": "Unavailable product",
+    "mode": "mobile",
+    "width": 390,
+    "height": 3301,
+    "svg": false
+  },
+  {
+    "file": "16-search-mobile",
+    "title": "Search suggestions",
+    "mode": "mobile",
+    "width": 390,
+    "height": 844,
+    "svg": false
+  },
+  {
+    "file": "17-filters-mobile",
+    "title": "Filter drawer",
+    "mode": "mobile",
+    "width": 390,
+    "height": 844,
+    "svg": false
+  },
+  {
+    "file": "20-navigation-mobile",
+    "title": "Mobile navigation",
+    "mode": "mobile",
+    "width": 390,
+    "height": 844,
+    "svg": false
+  }
+]
